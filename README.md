@@ -12,13 +12,12 @@
 ### 🛠️ Tools & Technologies I Use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSIS%20%26%20SSAS-0066CC?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-access-2019.png" alt="Access" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-visio.png" alt="Visio" width="40" height="40"/>
 </p>
 
 ---
@@ -28,8 +27,8 @@
 - 📜 Business Intelligence – Tose'e Higher Education Institute  
 - 📊 Data Visualization with Tableau – Coursera  
 - 📈 Excel Skills for Business – Coursera  
-- 🏅 SQL (Basic) – HackerRank
-  
+- 🏅 SQL (Basic) – HackerRank  
+
 ---
 
 🔗 [Visit my GitHub profile](https://github.com/SaharAkkashe)
